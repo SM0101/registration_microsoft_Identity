@@ -1,0 +1,1020 @@
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\Identity.exe
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\Identity.deps.json
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\Identity.runtimeconfig.json
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\Identity.runtimeconfig.dev.json
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\Identity.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\Identity.pdb
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\Identity.Views.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\Identity.Views.pdb
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\idb_c#\Desktop\Identity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\idb_c#\Desktop\Identity\obj\Debug\netcoreapp3.1\Identity.csproj.AssemblyReference.cache
+C:\Users\idb_c#\Desktop\Identity\obj\Debug\netcoreapp3.1\Identity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\idb_c#\Desktop\Identity\obj\Debug\netcoreapp3.1\Identity.AssemblyInfoInputs.cache
+C:\Users\idb_c#\Desktop\Identity\obj\Debug\netcoreapp3.1\Identity.AssemblyInfo.cs
+C:\Users\idb_c#\Desktop\Identity\obj\Debug\netcoreapp3.1\Identity.csproj.CoreCompileInputs.cache
+C:\Users\idb_c#\Desktop\Identity\obj\Debug\netcoreapp3.1\Identity.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\idb_c#\Desktop\Identity\obj\Debug\netcoreapp3.1\Identity.RazorAssemblyInfo.cache
+C:\Users\idb_c#\Desktop\Identity\obj\Debug\netcoreapp3.1\Identity.RazorAssemblyInfo.cs
+C:\Users\idb_c#\Desktop\Identity\obj\Debug\netcoreapp3.1\staticwebassets\Identity.StaticWebAssets.Manifest.cache
+C:\Users\idb_c#\Desktop\Identity\obj\Debug\netcoreapp3.1\staticwebassets\Identity.StaticWebAssets.Pack.cache
+C:\Users\idb_c#\Desktop\Identity\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Identity.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\idb_c#\Desktop\Identity\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Identity.props
+C:\Users\idb_c#\Desktop\Identity\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Identity.props
+C:\Users\idb_c#\Desktop\Identity\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Identity.props
+C:\Users\idb_c#\Desktop\Identity\obj\Debug\netcoreapp3.1\Identity.TagHelpers.input.cache
+C:\Users\idb_c#\Desktop\Identity\obj\Debug\netcoreapp3.1\Identity.TagHelpers.output.cache
+C:\Users\idb_c#\Desktop\Identity\obj\Debug\netcoreapp3.1\Identity.RazorCoreGenerate.cache
+C:\Users\idb_c#\Desktop\Identity\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Create.cshtml.g.cs
+C:\Users\idb_c#\Desktop\Identity\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\idb_c#\Desktop\Identity\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\idb_c#\Desktop\Identity\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\idb_c#\Desktop\Identity\obj\Debug\netcoreapp3.1\Razor\Views\Role\Create.cshtml.g.cs
+C:\Users\idb_c#\Desktop\Identity\obj\Debug\netcoreapp3.1\Razor\Views\Role\Index.cshtml.g.cs
+C:\Users\idb_c#\Desktop\Identity\obj\Debug\netcoreapp3.1\Razor\Views\Role\Update.cshtml.g.cs
+C:\Users\idb_c#\Desktop\Identity\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\idb_c#\Desktop\Identity\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\idb_c#\Desktop\Identity\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\idb_c#\Desktop\Identity\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\idb_c#\Desktop\Identity\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\idb_c#\Desktop\Identity\obj\Debug\netcoreapp3.1\Identity.RazorTargetAssemblyInfo.cache
+C:\Users\idb_c#\Desktop\Identity\obj\Debug\netcoreapp3.1\Identity.RazorTargetAssemblyInfo.cs
+C:\Users\idb_c#\Desktop\Identity\obj\Debug\netcoreapp3.1\Identity.Views.pdb
+C:\Users\idb_c#\Desktop\Identity\obj\Debug\netcoreapp3.1\Identity.csproj.CopyComplete
+C:\Users\idb_c#\Desktop\Identity\obj\Debug\netcoreapp3.1\Identity.dll
+C:\Users\idb_c#\Desktop\Identity\obj\Debug\netcoreapp3.1\Identity.pdb
+C:\Users\idb_c#\Desktop\Identity\obj\Debug\netcoreapp3.1\Identity.genruntimeconfig.cache
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\Identity.StaticWebAssets.xml
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\Identity.exe
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\Identity.deps.json
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\Identity.runtimeconfig.json
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\Identity.runtimeconfig.dev.json
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\Identity.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\Identity.pdb
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\Identity.Views.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\Identity.Views.pdb
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Identity - WithoutLogin\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Identity - WithoutLogin\obj\Debug\netcoreapp3.1\Identity.csproj.AssemblyReference.cache
+E:\Identity - WithoutLogin\obj\Debug\netcoreapp3.1\Identity.GeneratedMSBuildEditorConfig.editorconfig
+E:\Identity - WithoutLogin\obj\Debug\netcoreapp3.1\Identity.AssemblyInfoInputs.cache
+E:\Identity - WithoutLogin\obj\Debug\netcoreapp3.1\Identity.AssemblyInfo.cs
+E:\Identity - WithoutLogin\obj\Debug\netcoreapp3.1\Identity.csproj.CoreCompileInputs.cache
+E:\Identity - WithoutLogin\obj\Debug\netcoreapp3.1\Identity.MvcApplicationPartsAssemblyInfo.cs
+E:\Identity - WithoutLogin\obj\Debug\netcoreapp3.1\Identity.MvcApplicationPartsAssemblyInfo.cache
+E:\Identity - WithoutLogin\obj\Debug\netcoreapp3.1\Identity.RazorAssemblyInfo.cache
+E:\Identity - WithoutLogin\obj\Debug\netcoreapp3.1\Identity.RazorAssemblyInfo.cs
+E:\Identity - WithoutLogin\obj\Debug\netcoreapp3.1\staticwebassets\Identity.StaticWebAssets.Manifest.cache
+E:\Identity - WithoutLogin\obj\Debug\netcoreapp3.1\staticwebassets\Identity.StaticWebAssets.Pack.cache
+E:\Identity - WithoutLogin\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Identity.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Identity - WithoutLogin\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Identity.props
+E:\Identity - WithoutLogin\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Identity.props
+E:\Identity - WithoutLogin\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Identity.props
+E:\Identity - WithoutLogin\obj\Debug\netcoreapp3.1\staticwebassets\Identity.StaticWebAssets.xml
+E:\Identity - WithoutLogin\obj\Debug\netcoreapp3.1\Identity.TagHelpers.input.cache
+E:\Identity - WithoutLogin\obj\Debug\netcoreapp3.1\Identity.TagHelpers.output.cache
+E:\Identity - WithoutLogin\obj\Debug\netcoreapp3.1\Identity.RazorCoreGenerate.cache
+E:\Identity - WithoutLogin\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+E:\Identity - WithoutLogin\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Create.cshtml.g.cs
+E:\Identity - WithoutLogin\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+E:\Identity - WithoutLogin\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Identity - WithoutLogin\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Identity - WithoutLogin\obj\Debug\netcoreapp3.1\Razor\Views\Role\Create.cshtml.g.cs
+E:\Identity - WithoutLogin\obj\Debug\netcoreapp3.1\Razor\Views\Role\Index.cshtml.g.cs
+E:\Identity - WithoutLogin\obj\Debug\netcoreapp3.1\Razor\Views\Role\Update.cshtml.g.cs
+E:\Identity - WithoutLogin\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Identity - WithoutLogin\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Identity - WithoutLogin\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Identity - WithoutLogin\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Identity - WithoutLogin\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Identity - WithoutLogin\obj\Debug\netcoreapp3.1\Identity.RazorTargetAssemblyInfo.cache
+E:\Identity - WithoutLogin\obj\Debug\netcoreapp3.1\Identity.RazorTargetAssemblyInfo.cs
+E:\Identity - WithoutLogin\obj\Debug\netcoreapp3.1\Identity.Views.pdb
+E:\Identity - WithoutLogin\obj\Debug\netcoreapp3.1\Identity.csproj.CopyComplete
+E:\Identity - WithoutLogin\obj\Debug\netcoreapp3.1\Identity.dll
+E:\Identity - WithoutLogin\obj\Debug\netcoreapp3.1\Identity.pdb
+E:\Identity - WithoutLogin\obj\Debug\netcoreapp3.1\Identity.genruntimeconfig.cache
+E:\Identity - WithoutLogin\obj\Debug\netcoreapp3.1\Razor\Views\Account\Logout.cshtml.g.cs
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\Identity.StaticWebAssets.xml
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\Identity.exe
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\Identity.deps.json
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\Identity.runtimeconfig.json
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\Identity.runtimeconfig.dev.json
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\Identity.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\Identity.pdb
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\Identity.Views.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\Identity.Views.pdb
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.csproj.AssemblyReference.cache
+C:\Users\idb_c#\Desktop\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\idb_c#\Desktop\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.AssemblyInfoInputs.cache
+C:\Users\idb_c#\Desktop\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.AssemblyInfo.cs
+C:\Users\idb_c#\Desktop\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.csproj.CoreCompileInputs.cache
+C:\Users\idb_c#\Desktop\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\idb_c#\Desktop\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\idb_c#\Desktop\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.RazorAssemblyInfo.cache
+C:\Users\idb_c#\Desktop\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.RazorAssemblyInfo.cs
+C:\Users\idb_c#\Desktop\PolicyAuthentication\obj\Debug\netcoreapp3.1\staticwebassets\Identity.StaticWebAssets.Manifest.cache
+C:\Users\idb_c#\Desktop\PolicyAuthentication\obj\Debug\netcoreapp3.1\staticwebassets\Identity.StaticWebAssets.Pack.cache
+C:\Users\idb_c#\Desktop\PolicyAuthentication\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Identity.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\idb_c#\Desktop\PolicyAuthentication\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Identity.props
+C:\Users\idb_c#\Desktop\PolicyAuthentication\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Identity.props
+C:\Users\idb_c#\Desktop\PolicyAuthentication\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Identity.props
+C:\Users\idb_c#\Desktop\PolicyAuthentication\obj\Debug\netcoreapp3.1\staticwebassets\Identity.StaticWebAssets.xml
+C:\Users\idb_c#\Desktop\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.TagHelpers.input.cache
+C:\Users\idb_c#\Desktop\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.TagHelpers.output.cache
+C:\Users\idb_c#\Desktop\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.RazorCoreGenerate.cache
+C:\Users\idb_c#\Desktop\PolicyAuthentication\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\idb_c#\Desktop\PolicyAuthentication\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Create.cshtml.g.cs
+C:\Users\idb_c#\Desktop\PolicyAuthentication\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\idb_c#\Desktop\PolicyAuthentication\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\idb_c#\Desktop\PolicyAuthentication\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\idb_c#\Desktop\PolicyAuthentication\obj\Debug\netcoreapp3.1\Razor\Views\Role\Create.cshtml.g.cs
+C:\Users\idb_c#\Desktop\PolicyAuthentication\obj\Debug\netcoreapp3.1\Razor\Views\Role\Index.cshtml.g.cs
+C:\Users\idb_c#\Desktop\PolicyAuthentication\obj\Debug\netcoreapp3.1\Razor\Views\Role\Update.cshtml.g.cs
+C:\Users\idb_c#\Desktop\PolicyAuthentication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\idb_c#\Desktop\PolicyAuthentication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\idb_c#\Desktop\PolicyAuthentication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\idb_c#\Desktop\PolicyAuthentication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\idb_c#\Desktop\PolicyAuthentication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\idb_c#\Desktop\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.RazorTargetAssemblyInfo.cache
+C:\Users\idb_c#\Desktop\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.RazorTargetAssemblyInfo.cs
+C:\Users\idb_c#\Desktop\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.Views.pdb
+C:\Users\idb_c#\Desktop\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.csproj.CopyComplete
+C:\Users\idb_c#\Desktop\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.dll
+C:\Users\idb_c#\Desktop\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.pdb
+C:\Users\idb_c#\Desktop\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.genruntimeconfig.cache
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\appsettings.json
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Identity.StaticWebAssets.xml
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Identity.exe
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Identity.deps.json
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Identity.runtimeconfig.json
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Identity.runtimeconfig.dev.json
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Identity.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Identity.pdb
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Identity.Views.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Identity.Views.pdb
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\PolicyAuthentication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.csproj.AssemblyReference.cache
+E:\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.GeneratedMSBuildEditorConfig.editorconfig
+E:\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.AssemblyInfoInputs.cache
+E:\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.AssemblyInfo.cs
+E:\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.csproj.CoreCompileInputs.cache
+E:\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.MvcApplicationPartsAssemblyInfo.cs
+E:\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.MvcApplicationPartsAssemblyInfo.cache
+E:\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.RazorAssemblyInfo.cache
+E:\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.RazorAssemblyInfo.cs
+E:\PolicyAuthentication\obj\Debug\netcoreapp3.1\staticwebassets\Identity.StaticWebAssets.Manifest.cache
+E:\PolicyAuthentication\obj\Debug\netcoreapp3.1\staticwebassets\Identity.StaticWebAssets.Pack.cache
+E:\PolicyAuthentication\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Identity.Microsoft.AspNetCore.StaticWebAssets.props
+E:\PolicyAuthentication\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Identity.props
+E:\PolicyAuthentication\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Identity.props
+E:\PolicyAuthentication\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Identity.props
+E:\PolicyAuthentication\obj\Debug\netcoreapp3.1\staticwebassets\Identity.StaticWebAssets.xml
+E:\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.TagHelpers.input.cache
+E:\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.TagHelpers.output.cache
+E:\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.RazorCoreGenerate.cache
+E:\PolicyAuthentication\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+E:\PolicyAuthentication\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\PolicyAuthentication\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\PolicyAuthentication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\PolicyAuthentication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\PolicyAuthentication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\PolicyAuthentication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\PolicyAuthentication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.RazorTargetAssemblyInfo.cache
+E:\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.RazorTargetAssemblyInfo.cs
+E:\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.Views.pdb
+E:\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.csproj.CopyComplete
+E:\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.dll
+E:\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.pdb
+E:\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.genruntimeconfig.cache
+E:\PolicyAuthentication\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\appsettings.json
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Identity.StaticWebAssets.xml
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Identity.exe
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Identity.deps.json
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Identity.runtimeconfig.json
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Identity.runtimeconfig.dev.json
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Identity.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Identity.pdb
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Identity.Views.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Identity.Views.pdb
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\PolicyAuthentication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.csproj.AssemblyReference.cache
+F:\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.GeneratedMSBuildEditorConfig.editorconfig
+F:\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.AssemblyInfoInputs.cache
+F:\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.AssemblyInfo.cs
+F:\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.csproj.CoreCompileInputs.cache
+F:\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.MvcApplicationPartsAssemblyInfo.cs
+F:\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.MvcApplicationPartsAssemblyInfo.cache
+F:\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.RazorAssemblyInfo.cache
+F:\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.RazorAssemblyInfo.cs
+F:\PolicyAuthentication\obj\Debug\netcoreapp3.1\staticwebassets\Identity.StaticWebAssets.Manifest.cache
+F:\PolicyAuthentication\obj\Debug\netcoreapp3.1\staticwebassets\Identity.StaticWebAssets.Pack.cache
+F:\PolicyAuthentication\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Identity.Microsoft.AspNetCore.StaticWebAssets.props
+F:\PolicyAuthentication\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Identity.props
+F:\PolicyAuthentication\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Identity.props
+F:\PolicyAuthentication\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Identity.props
+F:\PolicyAuthentication\obj\Debug\netcoreapp3.1\staticwebassets\Identity.StaticWebAssets.xml
+F:\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.TagHelpers.input.cache
+F:\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.TagHelpers.output.cache
+F:\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.RazorCoreGenerate.cache
+F:\PolicyAuthentication\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+F:\PolicyAuthentication\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+F:\PolicyAuthentication\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\PolicyAuthentication\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\PolicyAuthentication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\PolicyAuthentication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\PolicyAuthentication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\PolicyAuthentication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\PolicyAuthentication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.RazorTargetAssemblyInfo.cache
+F:\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.RazorTargetAssemblyInfo.cs
+F:\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.Views.pdb
+F:\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.csproj.CopyComplete
+F:\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.dll
+F:\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.pdb
+F:\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.genruntimeconfig.cache
+F:\PolicyAuthentication\obj\Debug\netcoreapp3.1\Razor\Views\Account\Dashboard.cshtml.g.cs
+F:\PolicyAuthentication\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+F:\PolicyAuthentication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+F:\PolicyAuthentication\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\appsettings.json
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\Identity.StaticWebAssets.xml
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\Identity.exe
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\Identity.deps.json
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\Identity.runtimeconfig.json
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\Identity.runtimeconfig.dev.json
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\Identity.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\Identity.pdb
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\Identity.Views.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\Identity.Views.pdb
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.csproj.AssemblyReference.cache
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.GeneratedMSBuildEditorConfig.editorconfig
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.AssemblyInfoInputs.cache
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.AssemblyInfo.cs
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.csproj.CoreCompileInputs.cache
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.MvcApplicationPartsAssemblyInfo.cs
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.MvcApplicationPartsAssemblyInfo.cache
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.RazorAssemblyInfo.cache
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.RazorAssemblyInfo.cs
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\obj\Debug\netcoreapp3.1\staticwebassets\Identity.StaticWebAssets.Manifest.cache
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\obj\Debug\netcoreapp3.1\staticwebassets\Identity.StaticWebAssets.Pack.cache
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Identity.Microsoft.AspNetCore.StaticWebAssets.props
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Identity.props
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Identity.props
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Identity.props
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\obj\Debug\netcoreapp3.1\staticwebassets\Identity.StaticWebAssets.xml
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.TagHelpers.input.cache
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.TagHelpers.output.cache
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.RazorCoreGenerate.cache
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\obj\Debug\netcoreapp3.1\Razor\Views\Account\Dashboard.cshtml.g.cs
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.RazorTargetAssemblyInfo.cache
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.RazorTargetAssemblyInfo.cs
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.Views.pdb
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.csproj.CopyComplete
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.dll
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.pdb
+F:\IDB\8.ASP.NET Core\PolicyAuthentication\obj\Debug\netcoreapp3.1\Identity.genruntimeconfig.cache
